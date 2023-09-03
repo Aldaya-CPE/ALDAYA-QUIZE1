@@ -17,6 +17,7 @@ public class ALDAYA_Quize1 {
     public static void main(String[] args) {
             
         System.out.println("hello world of fun");
+        System.out.println("hi");
               
         
     }
